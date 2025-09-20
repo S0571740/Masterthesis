@@ -1,0 +1,6 @@
+DIRECTNESS:How does hydrological connectivity impact nutrient cycling and primary production in aquatic ecosystems?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly addresses the impact of hydrological connectivity on nutrient cycling and primary production with specific mechanisms, examples, and details. it explains how connectivity affects nutrient transfer, productivity, and ecosystem health, providing a comprehensive and clear explanation. in contrast, MS is more general and less detailed, lacking specific mechanisms or examples."
+}

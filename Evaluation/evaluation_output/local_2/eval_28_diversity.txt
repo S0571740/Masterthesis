@@ -1,0 +1,6 @@
+DIVERSITY:Q: Can you explain how starch and phytolith analyses contribute to understanding plant-processing activities?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it offers a multi-faceted and detailed perspective by explaining both starch and phytolith analyses individually, including their functions, preservation qualities, and specific applications in identifying plant types, parts, and processing techniques. it discusses their roles in reconstructing ancient activities, addresses the limitations of macroremains, and includes multiple sources and examples, thereby providing a rich, diverse, and comprehensive view. in contrast, NEO is more general and lacks the depth, specific details, and variety of viewpoints present in MS."
+}

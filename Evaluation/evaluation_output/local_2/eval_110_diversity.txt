@@ -1,0 +1,6 @@
+DIVERSITY:How can I provide education and resources to families about the use of BoNT-A in children with muscle spasticity?
+
+{
+  "winner": 1,
+  "reasoning": "MS is more comprehensive and multi-dimensional, offering a variety of strategies such as personalized counseling, support groups, tailored educational materials, online resources, and ongoing communication. it discusses the importance of trust-building, peer support, collaboration with multidisciplinary teams, and refers to best practices supported by the wider clinical context. in contrast, NEO provides a basic list of methods without elaborating on how these approaches differ, their significance, or including insights into enhancing engagement or tailoring education, making it less diverse and detailed."
+}

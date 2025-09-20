@@ -1,0 +1,6 @@
+COMPREHENSIVENESS:What is the role of magnetoresistive sensors in single-biomolecule detection, and how do they compare to other sensing technologies?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is more comprehensive as it explains not only the role of magnetoresistive sensors in single-biomolecule detection but also details their operating principles, how they interact with magnetic labels, and compares their advantages over optical and electrochemical sensors. it covers the benefits, environmental robustness, and application contexts thoroughly. in contrast, MS provides a more general overview, mentioning their high sensitivity and potential but lacks specifics about mechanisms, advantages over other technologies, and contextual details, making NEO the more complete and detailed response."
+}

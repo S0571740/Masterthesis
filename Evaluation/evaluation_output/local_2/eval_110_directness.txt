@@ -1,0 +1,6 @@
+DIRECTNESS:How can I provide education and resources to families about the use of BoNT-A in children with muscle spasticity?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear and concise list of specific methods for providing education and resources, directly addressing the question with concrete suggestions. in contrast, NEO, while thorough, is more detailed and broad, offering extensive strategies but less concise and more generalized, which makes it slightly less focused on explicitly answering the core of the question."
+}

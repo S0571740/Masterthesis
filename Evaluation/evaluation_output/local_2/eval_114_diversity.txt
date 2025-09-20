@@ -1,0 +1,6 @@
+DIVERSITY:Are there any specific exercises or stretches that should be avoided following BoNT-A administration?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a more comprehensive and multi-faceted overview by including specific post-injection precautions (e.g., avoiding massaging or pressure), general activity guidelines (light activity vs. strenuous exercise), and emphasizes the importance of personalized advice from healthcare providers. it also references different sources such as clinical guidelines and practice recommendations, offering multiple perspectives. conversely, MS is limited to a brief mention of avoiding high-intensity and extreme stretches, lacking detailed explanations, sources, or nuanced considerations, making it less diverse and rich overall."
+}

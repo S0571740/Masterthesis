@@ -1,0 +1,6 @@
+DIRECTNESS:How can hydrological connectivity be used to inform water resource management decisions?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is more specific and detailed in explaining how hydrological connectivity informs water resource management decisions, providing multiple practical examples and applications. in contrast, MS is more general and less detailed, offering a brief overview without specific examples, thus less clearly addressing how the concept is used in decision-making."
+}

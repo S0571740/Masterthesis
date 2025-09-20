@@ -1,0 +1,6 @@
+DIRECTNESS:Can you provide examples of direct NAATs that have shown high sensitivity and specificity in clinical settings?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly and concisely names specific examples of direct naats (pcr and rt-pcr) known for high sensitivity and specificity without additional details. in contrast, MS provides multiple examples with elaborate descriptions, regulatory statuses, and validation contexts, which, while informative, make the answer less focused and less directly aligned with the core request for specific examples."
+}

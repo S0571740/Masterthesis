@@ -1,0 +1,6 @@
+DIRECTNESS:Can you recommend any reliable suppliers for high-quality magnetic nanoparticles?
+
+{
+  "winner": 1,
+  "reasoning": "MS provides a clear, direct, and specific recommendation on what to look for when choosing suppliers, aligning closely with the question's focus on reliability and quality. in contrast, NEO states that it lacks specific supplier information and is more general and less direct, making it less effective in addressing the question explicitly."
+}

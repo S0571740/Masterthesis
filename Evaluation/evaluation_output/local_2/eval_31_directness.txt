@@ -1,0 +1,6 @@
+DIRECTNESS:Q: Can you discuss the role of wild plant resources in complementing the main diet at Ç atalhöyük?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a detailed, specific, and clear explanation of how wild plant resources complemented the main diet at çatalhöyük, including examples of particular plant types, their uses, and the evidence supporting their role. in contrast, MS offers only a very brief and vague statement, lacking detail and specific information, making it less effective in directly addressing the question."
+}

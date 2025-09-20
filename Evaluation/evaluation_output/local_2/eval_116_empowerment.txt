@@ -1,0 +1,6 @@
+EMPOWERMENT:How do I determine which patients with muscle spasticity would benefit from surgery versus continued treatment with BoNT-A?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a comprehensive, detailed explanation of multiple factors involved in deciding between surgery and continued bont-a treatment, including assessment of treatment response, severity, functional impact, underlying conditions, and a multidisciplinary approach. it also contextualizes the decision within clinical guidelines and references data sources, aiding the reader in understanding the complexity and rationale behind treatment choices. conversely, NEO is superficial, offering only general suggestions without detailed reasoning, specific criteria, or sources, which limits its usefulness for making informed judgments."
+}

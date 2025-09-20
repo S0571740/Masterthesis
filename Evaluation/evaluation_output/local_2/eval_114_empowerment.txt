@@ -1,0 +1,6 @@
+EMPOWERMENT:Are there any specific exercises or stretches that should be avoided following BoNT-A administration?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides comprehensive, nuanced guidance on post-bont-a activity restrictions, including specific activities to avoid (massaging, rubbing, pressure, strenuous movements), the rationale behind these restrictions (to prevent toxin migration and ensure efficacy), and the importance of consulting healthcare professionals for personalized advice. it also references common clinical practices and emphasizes the lack of universal rules, enabling the reader to make informed judgements. MS, while correct in a general sense, is vague and lacks detail, reasoning, and source backing, which limits its usefulness for understanding the full context."
+}

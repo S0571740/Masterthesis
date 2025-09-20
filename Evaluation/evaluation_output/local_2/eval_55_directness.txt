@@ -1,0 +1,6 @@
+DIRECTNESS:How can emerging nucleic acid amplification reactions and mutant polymerases be leveraged to improve direct NAATs?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a detailed, specific, and clear explanation of how emerging nucleic acid amplification reactions and mutant polymerases can be leveraged to improve direct naats, including examples and mechanisms. in contrast, NEO offers only a vague, generic statement without specific details or explanations, making it less clear and less directly focused on the question."
+}

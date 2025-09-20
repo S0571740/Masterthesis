@@ -1,0 +1,6 @@
+DIRECTNESS:How can community leaders build trust and credibility within their communities to drive positive change?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly lists specific actions community leaders can take—such as engaging with members, listening, being transparent, and following through—without extraneous information. in contrast, NEO provides a broader, less concise discussion with additional context and references that are not essential for a clear, direct response to the question."
+}

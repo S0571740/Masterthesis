@@ -1,0 +1,6 @@
+EMPOWERMENT:How can teachers incorporate contextual learning into their classroom instruction to enhance math communication skills?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a comprehensive and detailed explanation of specific strategies for incorporating contextual learning to enhance math communication skills, such as problem-based learning, collaborative activities, and the use of visual aids. it also explains the rationale behind each approach, making it more informative and actionable. in contrast, MS offers a more superficial overview without detailed reasoning or specific examples, limiting its usefulness for understanding how to effectively implement these strategies."
+}

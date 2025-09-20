@@ -1,0 +1,6 @@
+EMPOWERMENT:What are some effective ways to improve my mathematical language skills in class?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a comprehensive, detailed, and well-structured approach to improving mathematical language skills, including specific techniques, explanations of how they help, and practical examples. it also emphasizes reading, writing, modeling, and seeking feedback, which offers a well-rounded understanding. in contrast, NEO is brief and lacks depth, detail, and explicit reasoning behind the suggested methods. consequently, MS better supports the reader in understanding and making informed judgments about effective strategies for improving mathematical language skills."
+}

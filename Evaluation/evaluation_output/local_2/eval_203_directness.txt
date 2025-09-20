@@ -1,0 +1,6 @@
+DIRECTNESS:Can you provide examples of successful initiatives that have improved hydrological connectivity in a specific region?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides specific examples of successful initiatives (restoring river channels, removing barriers, water releases, fish ladders) in particular regions, offering clarity and detail that directly address the question. NEO is more generic, mentioning types of projects without specific regional examples or detailed descriptions, making it less focused and clear."
+}

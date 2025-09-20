@@ -1,0 +1,6 @@
+DIRECTNESS:How do I choose the right type of magnetic sensor for my specific application?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly and concisely addresses how to choose the right magnetic sensor by highlighting key criteria such as application requirements, sensor types, environmental conditions, and key decision factors. in contrast, NEO provides a more detailed discussion about different sensor types and factors to consider, but it is more verbose and less focused on clearly guiding the selection process; it includes extensive background information rather than a straightforward method for choosing the right sensor."
+}

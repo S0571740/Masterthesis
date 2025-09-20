@@ -1,0 +1,6 @@
+DIRECTNESS:What is the relationship between hydrological connectivity and ecosystem services such as water filtration and nutrient cycling?
+
+{
+  "winner": 1,
+  "reasoning": "NEO directly and comprehensively addresses the relationship between hydrological connectivity and ecosystem services by explaining how connectivity influences water filtration and nutrient cycling with specific mechanisms and examples. in contrast, MS only provides a brief and vague statement without details or explanation, making it less clear and specific."
+}

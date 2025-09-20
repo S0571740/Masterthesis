@@ -1,0 +1,6 @@
+DIRECTNESS:How can students apply the concepts learned from this study to real-world problems in genomics and personalized medicine?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly addresses how students can apply concepts from the study to real-world problems by focusing on analyzing genetic data, identifying patterns, and making treatment decisions. in contrast, MS is overly elaborate and provides somewhat general strategies rather than a clear, concise explanation directly related to applying the concepts from the study. while MS covers multiple areas, it lacks the straightforward, specific focus on practical application as requested in the question."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:How do direct NAATs compare to traditional blood tests or swabs in terms of accuracy and reliability?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the comparison of accuracy and reliability between direct naats and traditional tests, providing specific information about their sensitivity, specificity, performance in different sample types, and examples of validated systems. in contrast, NEO offers only a generic statement without any specific details or comparative data, making it less clear and concise in addressing the question."
+}

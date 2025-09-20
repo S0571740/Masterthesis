@@ -1,0 +1,6 @@
+DIRECTNESS:How can physical therapy be used to enhance or maintain range of motion and strength after BoNT-A injections?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly addresses the question by explaining specific physical therapy techniques—such as stretching, strengthening, and functional training—that are used to enhance or maintain range of motion and strength after bont-a injections. it provides clear, detailed examples of how therapy is applied, whereas MS offers only a vague statement about the role of physical therapy without specific details or examples, making it less clear and less informative."
+}

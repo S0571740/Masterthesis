@@ -1,0 +1,6 @@
+EMPOWERMENT:How does this research contribute to the development of new antimicrobial agents?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a detailed explanation of how the research advances antimicrobial development, including specific mechanisms, techniques, and the significance of understanding metallo-beta-lactamases. it mentions particular enzymes, methods (e.g., inhibition assays, kinetic analyses), and the implications for drug design, offering a comprehensive and well-supported perspective. in contrast, NEO offers a very general statement without specific details, reasoning, or sources, making it less informative and less helpful for understanding the research's contribution." 
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:How do I determine which patients with muscle spasticity would benefit from surgery versus continued treatment with BoNT-A?
+
+{
+  "winner": 2,
+  "reasoning": "NEO explicitly details the decision-making process by considering patient response to bont-a, severity of spasticity, functional impact, underlying conditions, and multidisciplinary evaluation, providing a comprehensive and clear framework. in contrast, MS is more general and less specific, lacking detailed criteria or structured guidance, making NEO a clearer and more directly applicable response to the question."
+}

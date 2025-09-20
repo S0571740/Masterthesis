@@ -1,0 +1,6 @@
+DIRECTNESS:How does Olink Explore enable high-throughput analysis of nearly 1500 proteins in multiplex?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a detailed and specific explanation of how olink explore enables high-throughput analysis, including the key technologies (pea and ngs) and mechanisms involved. in contrast, NEO is vague and generic, offering only a broad statement without any technical details. therefore, MS is clearer and more directly addresses the question."
+}

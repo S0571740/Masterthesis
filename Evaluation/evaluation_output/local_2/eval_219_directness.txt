@@ -1,0 +1,6 @@
+DIRECTNESS:What are some potential applications for using hydrological connectivity metrics to inform conservation efforts?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is more concise and directly lists specific potential applications such as identifying critical habitats, prioritizing areas for restoration, and evaluating conservation measures. in contrast, MS is more detailed and provides explanations, but it introduces additional context and examples that, while informative, are less directly focused on listing specific applications. therefore, NEO addresses the question more clearly and succinctly."
+}

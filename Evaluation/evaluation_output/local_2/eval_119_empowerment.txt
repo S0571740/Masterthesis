@@ -1,0 +1,6 @@
+EMPOWERMENT:How can I ensure optimal outcomes and minimize recurrence of muscle spasticity after surgical intervention?
+
+{
+  "winner": 1,
+  "reasoning": "MS provides a comprehensive, detailed explanation of multiple factors—including preoperative planning, surgical technique, postoperative management, long-term follow-up, and additional modalities—that collectively influence outcomes and recurrence of muscle spasticity after surgery. it emphasizes evidence-based practices, offers reasoning behind each step, and discusses the importance of tailoring interventions to individual patients. in contrast, NEO is brief, focusing mainly on post-surgical rehabilitation, medication adherence, and follow-up, without elaborating on the surgical aspects, the rationale behind strategies, or supporting evidence. therefore, MS better helps the reader understand the topic in depth and make informed decisions."
+}

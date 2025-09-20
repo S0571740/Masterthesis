@@ -1,0 +1,6 @@
+DIRECTNESS:What are the most pressing needs of families living in concentrated disadvantage, and how can social workers address them?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it explicitly identifies multiple pressing needs (economic instability, limited access to education and healthcare, housing insecurity, exposure to violence, mental health issues) and directly connects them to specific roles of social workers (connecting to resources, advocacy, counseling, community programs). it provides a comprehensive, detailed, and clear explanation aligned closely with the question. in contrast, NEO is more general, mentioning basic needs and broad strategies without linking each need specifically to the social worker’s actions or detailing particular issues as explicitly as MS."
+}

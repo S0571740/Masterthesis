@@ -1,0 +1,6 @@
+DIRECTNESS:What is the market potential for Olink Explore technology in the healthcare industry?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the market potential of olink explore technology by providing specific details on its capabilities, applications, and the factors driving its market relevance. in contrast, NEO only states that the market potential is significant and mentions general applications without any specific or detailed information about the technology's features or market drivers."
+}

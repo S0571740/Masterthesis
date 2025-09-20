@@ -1,0 +1,6 @@
+DIRECTNESS:How do I determine which patients would benefit from BoNT-A injections versus other treatments or therapies?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a specific, detailed, and comprehensive approach to determining which patients benefit from bont-a injections, including clinical factors, conditions, responses to previous treatments, and guidelines. in contrast, NEO is more general and less specific, lacking detailed criteria or guidance directly related to patient selection for bont-a therapy."
+}

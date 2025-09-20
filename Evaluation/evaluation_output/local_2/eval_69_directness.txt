@@ -1,0 +1,6 @@
+DIRECTNESS:How can industry professionals collaborate with researchers and clinicians to accelerate the development of direct NAATs?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a clear, concise, and directly relevant overview of how industry professionals can collaborate with researchers and clinicians, focusing on resource sharing and integration of expertise. MS, while very detailed and comprehensive, includes extensive specifics and examples that are somewhat tangential and less focused on the core question of collaboration mechanisms. therefore, NEO is better in clarity and conciseness."
+}

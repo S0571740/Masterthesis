@@ -1,0 +1,6 @@
+DIRECTNESS:What are the most effective ways for community leaders to engage with policymakers and advocate for change?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a comprehensive, detailed, and clear explanation of specific strategies community leaders can use to engage with policymakers, including relationship-building, data use, coalition-building, public outreach, and sustained dialogue. in contrast, NEO lists general activities without elaborating on how these relate specifically to effective engagement or how they address the advocacy process, making it less clear and lacking the depth of MS."
+}

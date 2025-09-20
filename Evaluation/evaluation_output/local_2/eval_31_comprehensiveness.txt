@@ -1,0 +1,6 @@
+COMPREHENSIVENESS:Q: Can you discuss the role of wild plant resources in complementing the main diet at Ç atalhöyük?
+
+{
+  "winner": 1,
+  "reasoning": "MS is more detailed and comprehensive, covering specific types of wild plants such as geophytes, wetlands, and grasses, and providing evidence from various analyses like microbotanical and macroremains. it also discusses their roles in nutrition, medicinal uses, craft activities, and seasonal availability, thus thoroughly addressing the question. in contrast, NEO is very brief and lacks specific details about the types of wild plant resources, their roles, or supporting evidence, making it less comprehensive."
+}

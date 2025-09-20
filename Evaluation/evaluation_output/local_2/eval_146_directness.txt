@@ -1,0 +1,6 @@
+DIRECTNESS:Can you recommend any relevant courses or workshops for learning about lab-on-a-chip design and microfluidics?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it directly suggests exploring courses or workshops related to the specific topics in question, providing a clear and concise recommendation. in contrast, NEO is more general and discusses sources of information and general areas to look into, but it does not explicitly recommend specific courses or workshops or give a straightforward response to the question."
+}

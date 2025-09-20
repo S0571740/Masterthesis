@@ -1,0 +1,6 @@
+DIRECTNESS:What are the advantages of using Olink Explore over other proteomics technologies?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a detailed, specific, and clear list of advantages of olink explore over other proteomics technologies, directly addressing the question. in contrast, MS mentions a few advantages but is brief and less specific, lacking comprehensive or detailed comparisons."
+}

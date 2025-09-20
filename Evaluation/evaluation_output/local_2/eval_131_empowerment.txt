@@ -1,0 +1,6 @@
+EMPOWERMENT:How do I program a magnetophoretic circuit to transport particles at single-particle resolution?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it provides a comprehensive and detailed explanation of the steps involved in programming a magnetophoretic circuit for single-particle resolution. it discusses specific methods for designing the magnetic landscape, controlling magnetic fields dynamically, and implementing feedback algorithms—offering practical considerations and referencing relevant literature to support claims. this level of detail and sourcing helps the reader understand the complexities and informed approaches needed for precise particle manipulation. in contrast, NEO offers a superficial overview without detailed reasoning or sources, limiting its usefulness for making informed judgments."
+}

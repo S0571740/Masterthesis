@@ -1,0 +1,6 @@
+EMPOWERMENT:How do I determine which patients would benefit from BoNT-A injections versus other treatments or therapies?
+
+{
+  "winner": 2,
+  "reasoning": "NEO provides a comprehensive and detailed explanation of how to determine which patients benefit from bont-a, including specific clinical conditions, patient factors, and the importance of evidence-based guidelines. it discusses the clinical reasoning, potential benefits, contraindications, and the role of clinical assessments, helping the reader make well-informed judgments. in contrast, MS offers a more general overview without specific details, evidence, or criteria, making it less informative and potentially more vague for decision-making."
+}

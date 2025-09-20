@@ -1,0 +1,18 @@
+Certainly! The archaeological evidence from Çatalhöyük highlights the significant role that wild plant resources played in complementing the main diet of its Neolithic inhabitants. While the primary focus has often been on cultivated cereals such as wheat and barley, microbotanical and macroremains analyses reveal a broad spectrum of wild plants that contributed to dietary diversity and food security.
+
+One key aspect is the exploitation of geophytes, which are underground storage organs like bulbs and tubers. Starch grain analysis has identified plants from the Iridaceae and Liliaceae families, such as Iris, Crocus, and Tulipa, which were used as food and medicinal resources [Data: Relationships (246, 247); Entities (747)]. These geophytes are known to be edible and were likely gathered seasonally, especially in spring when they are most accessible and nutritious. Ethnobotanical accounts suggest that some of these plants contain toxins and require processing for detoxification, indicating a sophisticated ethnobotanical knowledge among the community [Data: Sources (159); Entities (896, 897, 898, 899)].
+
+In addition to geophytes, aquatic and wetland plants such as Typha (cattails) and Phragmites were also exploited. Phytolith and macroremains evidence point to their use in craft activities and possibly as supplementary food sources, especially in the context of environmental settings like wetlands and grasslands surrounding the site [Data: Relationships (245, 250); Entities (747)]. These resources would have been particularly valuable during periods when cultivated crops were scarce or when dietary diversification was needed.
+
+Furthermore, the presence of wild grasses such as Setaria, identified through phytolith analysis, suggests their use as famine foods or raw materials for craft production. Although not preserved in macrobotanical remains, microbotanical evidence indicates their seasonal and supplementary role in the diet [Data: Relationships (252); Entities (913)]. The diversity of plant resources, including wild cereals and other non-cultivated plants, reflects an adaptive strategy to maximize resource use and ensure food security in fluctuating environmental conditions.
+
+Overall, wild plant resources at Çatalhöyük provided essential nutritional, medicinal, and craft-related benefits, complementing the cultivated crops and forming a complex, resilient subsistence system. This ethnobotanical flexibility underscores the community’s deep knowledge of their environment and their capacity to integrate wild resources into their daily life and food practices [Data: Entities (747); Relationships (245, 246, 247, 250)].
+
+---
+
+**Points supported by data:**
+
+- The identification of geophytes like Iris, Crocus, and Tulipa as food and medicinal resources [Data: Relationships (246, 247); Entities (747)].
+- Evidence of wetland plants such as Typha and Phragmites used in craft and possibly food activities [Data: Relationships (245, 250); Entities (747)].
+- Microbotanical evidence of wild grasses like Setaria used as famine foods or craft materials [Data: Relationships (252); Entities (913)].
+- The integration of wild plant resources into the Neolithic subsistence strategy reflects a sophisticated understanding of local ecology and resource management [Data: Entities (747); Relationships (245, 246, 247, 250)].

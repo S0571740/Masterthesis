@@ -1,0 +1,6 @@
+DIRECTNESS:Can you describe a case study where changes in hydrological connectivity led to significant shifts in fish populations or other aquatic species?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides specific and concrete examples of case studies (columbia river, mekong river) with clear explanations of how changes in hydrological connectivity affected fish populations. in contrast, MS is vague and lacks specific examples or details, making it less clear and precise in addressing the question."
+}

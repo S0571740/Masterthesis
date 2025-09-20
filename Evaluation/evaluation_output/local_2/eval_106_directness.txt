@@ -1,0 +1,6 @@
+DIRECTNESS:What are the current guidelines for prescribing BoNT-A in children with muscle spasticity, and how often can it be administered?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a clear and concise response directly addressing both aspects of the question—guidelines for prescribing bont-a in children with spasticity and the frequency of administration—without unnecessary details. in contrast, MS, while informative, is lengthy and includes excessive background information that is not strictly needed to answer the question. therefore, NEO is more focused and specific."
+}

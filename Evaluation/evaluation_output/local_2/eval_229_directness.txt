@@ -1,0 +1,6 @@
+DIRECTNESS:Can you provide examples of interactive learning activities that promote math communication?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides specific, concrete examples of interactive learning activities that promote math communication, along with explanations of how each activity fosters communication skills. in contrast, MS lists general activities without detailing how they specifically enhance math communication or explaining their mechanisms clearly."
+}

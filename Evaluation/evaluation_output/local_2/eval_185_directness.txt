@@ -1,0 +1,6 @@
+DIRECTNESS:How can this study's results inform decision-making around resource allocation for genetic research initiatives?
+
+{
+  "winner": 2,
+  "reasoning": "MS directly addresses how the study's results can inform decision-making around resource allocation by providing specific, actionable insights, such as supporting large-scale early-stage research, focusing on high-impact gene discovery, and investing in emerging technologies. in contrast, NEO is vague and lacks detail, only broadly stating that the study's results can guide resource allocation without specifying how or in what ways."
+}

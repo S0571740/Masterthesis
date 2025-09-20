@@ -1,0 +1,6 @@
+DIVERSITY:Are there any international standards or guidelines for ensuring the quality and safety of direct NAATs?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a more comprehensive and multi-dimensional discussion of international standards and guidelines related to direct naats. it references multiple sources, including the who's criteria and endorsements, as well as the fda's regulatory role, offering different perspectives from international and national bodies. in contrast, NEO provides a very brief and generic affirmation without elaborating on specific standards, guidelines, or multiple viewpoints, resulting in a less varied and less insightful response."
+}

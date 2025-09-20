@@ -1,0 +1,6 @@
+DIRECTNESS:How can hydrological connectivity be used to inform the development of sustainable water management plans?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear, concise explanation directly linking hydrological connectivity to informing water management plans, emphasizing practical applications and long-term sustainability. in contrast, NEO, while thorough and detailed, includes extensive background information and examples that, although relevant, make it less concise and slightly less focused on the core question."
+}

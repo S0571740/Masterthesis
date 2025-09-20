@@ -1,0 +1,6 @@
+DIRECTNESS:Can this research inform the design of new experiments to investigate the mechanisms of antibiotic resistance?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a direct and concise affirmation that the research can inform new experimental designs, without including additional details that are not directly related to the question. in contrast, MS is overly detailed and contains extensive information that, while relevant in context, is unnecessary for a clear, concise answer to the specific question asked."
+}

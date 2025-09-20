@@ -1,0 +1,5 @@
+DIRECTNESS:How does hydrological connectivity impact the spread of invasive species and disease in aquatic ecosystems?
+
+{
+  "winner": 2,
+  "reasoning": "NEO provides a detailed, specific explanation of how hydrological connectivity impacts the spread of invasive species and disease, including mechanisms, examples, and the significance of management. in contrast, MS offers a very general and somewhat vague overview without specific details or examples. therefore, NEO is better because it addresses the question with clarity and specificity."

@@ -1,0 +1,6 @@
+DIRECTNESS:What resources and support systems should be put in place to help families navigate poverty and disadvantage?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed, structured, and comprehensive explanation of specific resources and support systems, including examples and a rationale for their importance. in contrast, MS is more general and less detailed, lacking specific explanations and context, which makes it less clear and concise in directly addressing the question."
+}

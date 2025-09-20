@@ -1,0 +1,6 @@
+DIRECTNESS:What role does climate change play in altering hydrological connectivity, and what are the potential consequences?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a more detailed and comprehensive explanation of how climate change alters hydrological connectivity, including specific processes (e.g., droughts, storms, sedimentation) and potential ecological and socio-economic consequences. in contrast, NEO offers a more general overview without as much specificity or depth, making MS clearer and more directly aligned with the question."
+}

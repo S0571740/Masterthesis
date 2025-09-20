@@ -1,0 +1,6 @@
+COMPREHENSIVENESS:How can physical therapy be used to enhance or maintain range of motion and strength after BoNT-A injections?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a detailed, comprehensive explanation of how physical therapy can be used after bont-a injections, including specific modalities such as stretching, strengthening, positioning, functional training, and patient education. it discusses both rom and strength, their purposes, methods, and the importance of an integrated, tailored approach, covering all relevant aspects thoroughly. in contrast, NEO only states that physical therapy plays a role without elaborating on specific techniques or strategies, thus lacking the depth and comprehensiveness found in MS."
+}

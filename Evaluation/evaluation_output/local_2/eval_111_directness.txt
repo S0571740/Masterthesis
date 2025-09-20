@@ -1,0 +1,6 @@
+DIRECTNESS:How do I incorporate BoNT-A injections into a comprehensive treatment plan for patients with muscle spasticity?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a clear and concise overview of incorporating bont-a injections into a treatment plan, mentioning key steps like patient assessment, targeting muscles, dosage, and coordination with healthcare professionals. in contrast, MS, while thorough and detailed, offers more extensive context about assessment methods, adjunct therapies, and follow-up, which, although useful, makes it less direct and more informational than necessary for the specific question of incorporation. therefore, NEO is better because it addresses the question more directly and succinctly."
+}

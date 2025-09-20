@@ -1,0 +1,13 @@
+The binding mechanism of Bi(III) to NDM-1 differs significantly from that of zinc, primarily due to the distinct chemical properties of these metal ions.
+
+**Zinc Binding in NDM-1:**  
+Zinc ions are essential cofactors for NDM-1, a metallo-β-lactamase enzyme. They typically coordinate with amino acid residues such as histidines, aspartates, and glutamates within the enzyme's active site. The coordination involves a tetrahedral or octahedral geometry, stabilizing the enzyme's structure and facilitating the hydrolysis of β-lactam antibiotics. This zinc coordination is well-characterized and critical for enzymatic activity, with zinc ions being tightly bound but still capable of exchange under physiological conditions [Data: Enzyme Structures (1, 2, 3); Metal Coordination (4, 5)].
+
+**Bismuth (Bi(III)) Binding in NDM-1:**  
+In contrast, Bi(III) binds to NDM-1 through a different mechanism. Bismuth has a larger ionic radius and a higher affinity for sulfur and oxygen donor atoms, often forming more covalent and less labile bonds compared to zinc. Studies suggest that Bi(III) can displace zinc in the enzyme's active site or bind to alternative sites, leading to enzyme inhibition. The binding of Bi(III) may involve coordination with amino acid residues such as histidines and cysteines, but the nature of this interaction tends to be more covalent and less dynamic than zinc coordination. This difference in binding mode underpins the inhibitory effect of Bi(III) on NDM-1 activity [Data: Metal Binding Studies (6, 7); Inhibition Mechanisms (8)].
+
+**Summary:**  
+In essence, while zinc binds reversibly and primarily through coordination with nitrogen and oxygen donors in a geometry suited for catalysis, Bi(III) binds more covalently, often displacing zinc or binding at different sites, leading to enzyme inhibition. This difference in binding mechanisms is crucial for designing metal-based inhibitors targeting NDM-1 and other metallo-β-lactamases.
+
+**References:**  
+This summary is supported by multiple data references, including structural studies and metal-binding analyses [Data: Enzyme Structures (1, 2, 3); Metal Coordination (4, 5); Metal Binding Studies (6, 7); Inhibition Mechanisms (8)].

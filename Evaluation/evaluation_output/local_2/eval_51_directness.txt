@@ -1,0 +1,6 @@
+DIRECTNESS:What are the current challenges in developing direct NAATs for complex samples?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a detailed, specific, and clear explanation of the main challenges in developing direct naats for complex samples, including sample heterogeneity, inhibitors, sensitivity, and the need for tailored sample processing. it directly addresses the core issues with relevant examples and avoids unnecessary generalities, making it more comprehensive and precise. in contrast, MS offers a brief summary that touches on similar challenges but lacks the depth and clarity of NEO."
+}

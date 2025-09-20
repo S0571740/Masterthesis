@@ -1,0 +1,6 @@
+DIRECTNESS:What educational programs or initiatives have shown success in improving outcomes for students from disadvantaged backgrounds?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides specific examples, details, and evidence of successful programs, directly addressing the question with clarity and depth. in contrast, NEO is more general and less detailed, offering only broad categories without specific programs or clear evidence of success."
+}

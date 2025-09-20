@@ -1,0 +1,6 @@
+DIRECTNESS:What role can parents play in supporting their children's math communication development at home?
+
+{
+  "winner": 1,
+  "reasoning": "MS is more specific and detailed, providing concrete strategies such as encouraging children to explain their thinking, creating math-rich environments through everyday activities, asking open-ended questions, and modeling communication. in contrast, NEO is more general, mentioning activities and discussions but lacking specific examples or detailed explanations, making MS clearer and more directly aligned with supporting math communication development at home."
+}

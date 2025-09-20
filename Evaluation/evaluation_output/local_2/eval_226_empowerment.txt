@@ -1,0 +1,6 @@
+EMPOWERMENT:What strategies can teachers use to improve students' mathematical language skills?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a comprehensive overview of multiple strategies, including explicit vocabulary instruction, promoting mathematical discourse, visual supports, and writing activities, with detailed explanations and references to research and pedagogical techniques. in contrast, NEO offers more general suggestions without in-depth explanation or specific reasoning behind each strategy. additionally, MS explicitly discusses how these strategies improve language skills and their role in understanding mathematics, offering a clearer and more informed perspective."
+}

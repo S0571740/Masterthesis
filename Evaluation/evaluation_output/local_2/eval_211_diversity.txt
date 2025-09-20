@@ -1,0 +1,6 @@
+DIVERSITY:How can hydrological connectivity be used to inform the development of sustainable water management plans?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a more comprehensive and multi-dimensional perspective on how hydrological connectivity can inform water management plans. it discusses ecological, structural, and climate-related aspects, emphasizing practical strategies like restoring floodplain connectivity, protecting groundwater-surface water interactions, and addressing vulnerabilities from climate change. it also references general principles and best practices, offering insights into ecosystem health, pollution mitigation, and adaptive management. in contrast, MS offers a more general overview with fewer specific examples or multidimensional viewpoints, making it less rich and varied in scope."
+}

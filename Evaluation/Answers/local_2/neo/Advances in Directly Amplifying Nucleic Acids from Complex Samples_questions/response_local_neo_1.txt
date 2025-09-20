@@ -1,0 +1,1 @@
+Developing direct NAATs for complex samples faces challenges such as sample preparation, interference from inhibitors, low target concentrations, and the need for high sensitivity and specificity in detecting nucleic acids.

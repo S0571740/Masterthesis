@@ -1,0 +1,6 @@
+DIRECTNESS:How can this research inform the development of curricula or educational programs focused on improving math communication skills?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a detailed, specific, and clear explanation of how the research can inform curriculum development, including strategies like explicit instruction, collaborative activities, and feedback. in contrast, MS is more general and lacks specific examples or detailed mechanisms, making it less direct and clear in addressing how the research informs curriculum development."
+}

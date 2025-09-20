@@ -1,0 +1,6 @@
+EMPOWERMENT:How can physical therapy be used to enhance or maintain range of motion and strength after BoNT-A injections?
+
+{
+  "winner": 1,
+  "reasoning": "MS provides a comprehensive, detailed explanation of how physical therapy can enhance and maintain rom and strength after bont-a injections, including specific interventions like stretching, strengthening, functional training, and considerations for timing and monitoring. it also discusses the rationale behind these strategies and references clinical guidelines, offering the reader well-supported, actionable insights. in contrast, NEO is largely a placeholder that lacks substantive content, reasoning, or sources, making it less informative and less helpful for understanding or making informed judgments about the topic."
+}

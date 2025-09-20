@@ -1,0 +1,6 @@
+DIRECTNESS:Can this research guide the design of new antimicrobial compounds that target Bi(III)-bound NDM-1?
+
+{
+  "winner": 2,
+  "reasoning": "MS directly addresses the question by explaining how the research findings can inform the design of new antimicrobial compounds targeting bi(iii)-bound ndm-1, providing specific details about the interactions, assays, and implications. in contrast, NEO is overly brief and vague, merely affirming that the research can guide compound design without elaboration. therefore, MS is clearer and more specific."
+}

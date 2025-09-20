@@ -1,0 +1,6 @@
+DIRECTNESS:Can Olink Explore be used in conjunction with other omics technologies, such as genomics or transcriptomics?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly and comprehensively addresses the question by explaining how olink explore can be integrated with other omics technologies, providing specific details about multi-omics workflows and the platform's capabilities. in contrast, MS provides only a brief affirmation without elaboration or clarification, making it less clear and specific."
+}

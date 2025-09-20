@@ -1,0 +1,6 @@
+DIRECTNESS:What implications do the study's findings have for industry investment in genetic research and development?
+
+{
+  "winner": 2,
+  "reasoning": "NEO directly addresses the question by explicitly outlining specific implications of the study's findings for industry investment, including areas like fostering large research teams, targeting hot gene areas, supporting transition phases, and investing in supportive environments. in contrast, MS is vague and general, mentioning potential influences without giving concrete or specific implications, making it less clear and less directly responsive to the question."
+}

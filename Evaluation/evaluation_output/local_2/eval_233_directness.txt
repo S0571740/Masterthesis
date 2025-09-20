@@ -1,0 +1,6 @@
+DIRECTNESS:Can you provide tips on how to engage with math problems using multiple solutions and representations?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly provides specific, actionable tips on how to engage with math problems using multiple solutions and representations. it clearly lists strategies such as exploring different methods, using visualizations, translating between representations, and reflecting on solutions. in contrast, MS offers general statements about the benefits of multiple representations without providing concrete tips or specific guidance, making it less clear and less directly responsive to the question."
+}

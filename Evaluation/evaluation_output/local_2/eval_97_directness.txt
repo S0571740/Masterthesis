@@ -1,0 +1,6 @@
+DIRECTNESS:Can this research inform policy decisions regarding the development and implementation of new antibiotic treatments?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses how the research can inform policy decisions by explaining the specific ways in which scientific findings related to antibiotic resistance and enzyme inhibition could influence policy, along with relevant details. in contrast, NEO offers only a minimal and vague affirmation without elaborating on how the research could impact policy decisions."
+}

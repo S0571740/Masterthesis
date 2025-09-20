@@ -1,0 +1,6 @@
+DIVERSITY:Q: Can you discuss the role of wild plant resources in complementing the main diet at Ç atalhöyük?
+
+{
+  "winner": 2,
+  "reasoning": "NEO provides a comprehensive, multi-faceted, and detailed exploration of wild plant resources at çatalhöyük, including various plant types, their uses (food, medicinal, craft), environmental contexts, and supporting archaeological and ethnobotanical evidence. it presents multiple perspectives on the different types of wild plants, their seasonal availability, and their role in dietary and cultural practices, supported by diverse data sources. conversely, MS offers a very brief, almost non-existent discussion, lacking any detail, examples, or perspectives. therefore, NEO is significantly richer and more varied in insights on the question."
+}

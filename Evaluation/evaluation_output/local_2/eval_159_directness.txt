@@ -1,0 +1,6 @@
+DIRECTNESS:What is the role of NGS DNA tags in utilizing Olink Explore technology?
+
+{
+  "winner": 2,
+  "reasoning": "NEO clearly and specifically explains the role of ngs dna tags in the context of olink explore technology, describing how they act as molecular identifiers or barcodes for protein detection and quantification. in contrast, MS is vague and only states that ngs dna tags enable identification and tracking of dna sequences without elaborating on their specific function within the assay. therefore, NEO provides a more detailed and precise explanation directly addressing the question."
+}

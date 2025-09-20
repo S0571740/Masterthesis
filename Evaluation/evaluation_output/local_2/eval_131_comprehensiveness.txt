@@ -1,0 +1,6 @@
+COMPREHENSIVENESS:How do I program a magnetophoretic circuit to transport particles at single-particle resolution?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed, comprehensive overview of how to program a magnetophoretic circuit for single-particle resolution, including design considerations, dynamic control methods, feedback algorithms, and practical factors. it covers both the theoretical and experimental aspects thoroughly. in contrast, MS offers only a broad overview, mentioning the need for precise magnetic control but lacking specifics about implementing the control, design strategies, feedback mechanisms, or considerations required for achieving single-particle resolution."  
+}

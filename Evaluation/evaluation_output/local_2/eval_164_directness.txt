@@ -1,0 +1,6 @@
+DIRECTNESS:Can Olink Explore be used to develop targeted therapies based on protein-related diseases?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a comprehensive explanation of how olink explore can be used in developing targeted therapies, including specific technological features and applications relevant to the question. in contrast, NEO is too brief and generic, lacking detail on the mechanisms or processes by which olink explore contributes to therapy development. therefore, MS is more specific and clear in addressing the question."
+}

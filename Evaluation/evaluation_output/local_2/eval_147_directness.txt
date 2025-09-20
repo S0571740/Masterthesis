@@ -1,0 +1,6 @@
+DIRECTNESS:What is the role of magnetoresistive sensors in single-biomolecule detection, and how do they compare to other sensing technologies?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a detailed, specific explanation of the role of magnetoresistive sensors in single-biomolecule detection, including the mechanism, advantages, and comparison to other technologies. in contrast, NEO is more general, mentioning the high sensitivity and capability to detect single molecules but lacking detail about how these sensors operate or their advantages over other methods."
+}

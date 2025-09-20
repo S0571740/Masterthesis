@@ -1,0 +1,6 @@
+DIRECTNESS:How do I design a lab-on-a-chip device to optimize particle manipulation and sensing?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a concise, focused response directly addressing the question by highlighting key factors like channel geometry, surface properties, flow control, and integration of sensors and actuation methods. in contrast, NEO, while detailed and comprehensive, includes extensive background information, references, and elaboration that are unnecessary for the core question, making it less direct and slightly overly elaborate."
+}

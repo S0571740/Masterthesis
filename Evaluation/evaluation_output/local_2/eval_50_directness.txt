@@ -1,0 +1,6 @@
+DIRECTNESS:Q: Can you discuss the significance of integrating microbotanical, microwear, and technological data for understanding plant use and processing at Neolithic Ç atalhöyük?
+
+{
+  "winner": 2,
+  "reasoning": "NEO provides a detailed, specific, and clear explanation of how integrating microbotanical, microwear, and technological data enhances understanding of plant use and processing at çatalhöyük. it directly addresses the significance of the integration, detailing the unique insights each data type offers and how their combination leads to a comprehensive understanding. in contrast, MS is only a broad, general statement without specifics or elaboration, making it less clear and less informative in addressing the question directly."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:How can direct NAATs be integrated into existing clinical workflows and patient care pathways?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear, concise overview of key strategies for integrating direct naats into clinical workflows, focusing on protocols, training, and communication. in contrast, NEO, while thorough and informative, offers excessive detail and context that, although relevant, makes the response less directly focused on specific steps for integration, thus reducing clarity and conciseness."
+}

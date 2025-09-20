@@ -1,0 +1,6 @@
+DIRECTNESS:What are the key considerations when integrating MEMS with existing biomedical equipment?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly and concisely lists key considerations—compatibility, communication protocols, power, data accuracy, and system performance—without extraneous detail. in contrast, NEO, although thorough, introduces additional elaborations such as biocompatibility, regulatory standards, data management, and cost considerations, which, while relevant, make it less concise and somewhat less focused specifically on key considerations for integration. overall, MS provides a clearer and more direct response to the core question."
+}

@@ -1,0 +1,6 @@
+COMPREHENSIVENESS:How do I determine which patients with muscle spasticity would benefit from surgery versus continued treatment with BoNT-A?
+
+{
+  "winner": 2,
+  "reasoning": "MS is more comprehensive because it covers multiple aspects necessary for decision-making, including assessment of response to bont-a, severity and functional impact of spasticity, underlying conditions, patient goals, and the importance of a multidisciplinary approach. it provides specific criteria and detailed considerations for both treatment options, referencing different evaluations and outcomes, whereas NEO offers only a brief overview focusing mainly on general factors like severity and response without the depth of clinical nuances present in MS."
+}

@@ -1,0 +1,18 @@
+Deciding whether patients with muscle spasticity should undergo surgery or continue with Botulinum toxin A (BoNT-A) treatment involves a comprehensive assessment of their clinical presentation, response to previous treatments, and specific functional goals.
+
+**Assessment of Response to BoNT-A**  
+Patients who have shown significant improvement in spasticity symptoms, functional gains, and quality of life with BoNT-A may continue with this minimally invasive treatment. Conversely, those who have experienced limited or no benefit despite optimal dosing and injection techniques might be considered for surgical options. The duration of response and the presence of adverse effects are also important factors in this decision-making process.
+
+**Evaluation of Spasticity Severity and Impact**  
+The severity of spasticity and its impact on activities of daily living are critical considerations. Patients with severe, refractory spasticity that impairs mobility, hygiene, or causes pain may be candidates for surgical intervention, especially if they have not responded adequately to BoNT-A. Functional assessments and patient-reported outcomes can help quantify these impacts.
+
+**Consideration of Underlying Conditions and Goals**  
+Underlying neurological conditions, such as stroke, cerebral palsy, or multiple sclerosis, influence treatment choices. Surgical options, such as tendon lengthening or neurolysis, are typically reserved for cases where spasticity is fixed or contributes significantly to deformity. The patient's goals, preferences, and overall health status are also essential in guiding the decision.
+
+**Multidisciplinary Approach**  
+A multidisciplinary team—including neurologists, physiatrists, surgeons, and physical therapists—should evaluate the patient to determine the most appropriate intervention. Imaging and electrophysiological studies may assist in identifying fixed contractures versus dynamic spasticity, which can influence the choice of treatment.
+
+**Summary**  
+In summary, patients benefiting from BoNT-A are those with manageable spasticity responding well to injections, while those with refractory, severe, or functionally limiting spasticity despite optimal medical management may be considered for surgery. The decision should be individualized, based on clinical response, functional impact, underlying pathology, and patient preferences.
+
+This approach aligns with current clinical guidelines and best practices supported by multiple data references [Data: Treatment Guidelines (12, 15, 22); Patient Outcomes (3, 8, 19); Multidisciplinary Assessments (5, 9, 14); +more].

@@ -1,0 +1,6 @@
+DIRECTNESS:How can social workers prioritize cultural sensitivity when working with diverse communities?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear, concise, and directly relevant explanation of how social workers can prioritize cultural sensitivity, focusing on understanding, ongoing training, building trust, and collaboration. NEO, while detailed and comprehensive, is more elaborate and includes additional strategies and references that, although valuable, make it less concise and slightly less direct in addressing the core question about prioritizing cultural sensitivity."
+}

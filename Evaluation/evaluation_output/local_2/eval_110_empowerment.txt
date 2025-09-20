@@ -1,0 +1,6 @@
+EMPOWERMENT:How can I provide education and resources to families about the use of BoNT-A in children with muscle spasticity?
+
+{
+  "winner": 1,
+  "reasoning": "MS provides a comprehensive and detailed approach, including specific strategies such as personalized counseling, support groups, educational materials tailored to lay audiences, and collaboration with multidisciplinary teams. it emphasizes the importance of building trust, addressing individual concerns, and ongoing communication, all supported by best practices in patient education. conversely, NEO offers a more superficial overview with limited detail and no mention of the importance of personalization, peer support, or ongoing follow-up. consequently, MS better helps the reader understand how to effectively educate and support families about bont-a use in children with spasticity, without misleading or oversimplifying the topic."
+}

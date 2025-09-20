@@ -1,0 +1,1 @@
+Olink Explore integrates protein data with genetic information by leveraging advanced technology and algorithms to analyze and correlate the data from both sources. This integration allows for a comprehensive understanding of how genetic variations may influence protein levels and functions, providing valuable insights into the relationship between genetics and protein biology.

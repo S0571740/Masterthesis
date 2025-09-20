@@ -1,0 +1,6 @@
+DIRECTNESS:What are the most effective strategies for building trust between social workers and community members in disadvantaged areas?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the question by providing multiple specific and clearly explained strategies for building trust, such as community engagement, cultural competence, consistency, personal relationships, and respect. it elaborates on each strategy with supporting details and evidence. in contrast, NEO offers a general list of strategies without elaboration or explanation, making it less specific and less clear in how these strategies effectively build trust."
+}

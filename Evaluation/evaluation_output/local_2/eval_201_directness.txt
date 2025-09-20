@@ -1,0 +1,6 @@
+DIRECTNESS:What are the primary factors influencing hydrological connectivity in a given watershed?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it clearly identifies the main factor (topography) and explicitly states that multiple factors—physical, biological, and anthropogenic—affect hydrological connectivity. it provides a structured and detailed explanation directly addressing the question, covering key influencing factors without unnecessary information. in contrast, MS lists several factors but lacks explicit emphasis on which are primary and does not provide a comprehensive, organized overview of the main influences."}
+

@@ -1,0 +1,6 @@
+DIRECTNESS:Can this research guide the allocation of resources for the development and distribution of new antibiotic treatments?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it specifically assesses the relevance of the research to resource allocation for new antibiotics, explaining that it provides foundational biochemical insights but does not directly serve as a guide for resource planning. in contrast, MS gives a yes/no response without explanation or clarification, making it less specific and clear in addressing the question."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:How can teachers assess and evaluate students' math communication skills effectively?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it specifically details multiple clear methods and strategies for assessing students' math communication skills, including observable activities, rubrics, self and peer assessments, and portfolios. in contrast, MS provides a general overview without as much specificity or coverage of different assessment approaches, making it less detailed and clear."
+}

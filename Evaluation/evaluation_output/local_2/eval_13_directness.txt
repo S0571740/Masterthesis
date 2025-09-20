@@ -1,0 +1,6 @@
+DIRECTNESS:What role should teachers play in addressing the social determinants of health and well-being in their students' lives?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is more concise and directly addresses the question by outlining specific roles teachers should play—creating a supportive environment, identifying challenges, connecting students with resources, and advocating for policies—without including extraneous details. MS, while thorough, provides a broader discussion with more contextual information and examples that are less focused on explicitly defining the teachers' specific roles. therefore, NEO offers a clearer and more direct response."
+}

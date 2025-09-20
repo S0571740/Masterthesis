@@ -1,0 +1,6 @@
+DIRECTNESS:Are there any specific exercises or stretches that should be avoided following BoNT-A administration?
+
+{
+  "winner": 2,
+  "reasoning": "MS is clearer and more concise in directly stating specific exercise types—high-intensity or strenuous exercises and extreme stretches—that should be avoided, directly addressing the question without unnecessary details. NEO provides more general information and context but is less focused and less specific about which exercises or stretches to avoid."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:In what ways can hydrological connectivity be used to inform the development of adaptation strategies for vulnerable communities?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a clear and concise explanation of how hydrological connectivity can inform adaptation strategies, focusing directly on the practical implications such as flood and drought mitigation, land use, and water management. while MS offers more detailed examples and elaborations, it includes additional context and references that, although relevant, make it less straightforward and more complex than necessary to directly address the core question."
+}

@@ -1,0 +1,6 @@
+EMPOWERMENT:What are the current guidelines for prescribing BoNT-A in children with muscle spasticity, and how often can it be administered?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a comprehensive overview of current guidelines for prescribing bont-a in children with spasticity, including assessment considerations, dosing details, injection techniques, and specific information about administration frequency. it references clinical guidelines and practice standards, offering a nuanced and evidence-based perspective that enables informed judgment. in contrast, NEO is brief, lacks detailed reasoning, sources, and context, which limits its usefulness in helping the reader understand the complexity and safe application of the guidelines. therefore, MS is substantially better in clearly explaining the topic and supporting claims with relevant information."
+}

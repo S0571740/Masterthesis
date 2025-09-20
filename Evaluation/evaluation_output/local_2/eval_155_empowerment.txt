@@ -1,0 +1,6 @@
+EMPOWERMENT:How can multiomics data help in developing next-generation medicine?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a more comprehensive, detailed explanation of how multiomics data can advance next-generation medicine, including specific examples such as precision medicine, biomarker discovery, and potential challenges. it explicitly mentions sources, technical examples (e.g., olink explore, ngs), and discusses both benefits and obstacles, offering a well-rounded understanding. MS, while accurate, is succinct and lacks detailed reasoning, examples, or references that would support more informed judgments. therefore, NEO better helps the reader understand the topic with depth and clarity."
+}

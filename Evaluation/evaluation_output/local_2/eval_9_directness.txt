@@ -1,0 +1,6 @@
+DIRECTNESS:How can social workers effectively advocate for policy changes that benefit their clients?
+
+{
+  "winner": 1,
+  "reasoning": "MS is more specific and detailed in describing various strategies social workers can use to advocate for policy change, including staying informed, building relationships, using data, and engaging clients. in contrast, NEO provides a more general overview without elaborating on how these strategies are implemented or their significance. therefore, MS more directly and clearly addresses the question."
+}

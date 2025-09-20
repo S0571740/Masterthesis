@@ -1,0 +1,1 @@
+The technical limitations and challenges of using Olink Explore technology include potential issues related to data chunking, report generation, managing relationships between different data points, and handling various entities within the data.

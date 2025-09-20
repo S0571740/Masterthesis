@@ -1,0 +1,6 @@
+DIRECTNESS:How does hydrological connectivity impact the distribution of pollutants and contaminants in surface and groundwater systems?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it directly addresses how hydrological connectivity impacts the distribution of pollutants and contaminants by explaining the mechanisms of transport in both surface and groundwater systems. it provides specific examples and discusses factors influencing the impact, making the explanation clearer and more comprehensive. in contrast, NEO offers a general overview without sufficient detail or examples, making it less specific and less clear about the processes involved."
+}

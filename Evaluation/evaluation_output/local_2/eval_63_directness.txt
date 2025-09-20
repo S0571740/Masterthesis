@@ -1,0 +1,6 @@
+DIRECTNESS:Can direct NAATs provide personalized results and recommendations based on individual health profiles?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly addresses the question by explaining the potential and current capabilities of direct naats in providing personalized results and recommendations, including specific examples and limitations. MS only restates the question without providing any information, making it non-informative."
+}

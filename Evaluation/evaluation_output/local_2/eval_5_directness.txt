@@ -1,0 +1,6 @@
+DIRECTNESS:How can policymakers balance short-term needs with long-term goals in addressing complex social issues?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a clear and concise summary of how policymakers can balance short-term needs with long-term goals, directly addressing the question with specific strategies involving immediate interventions and foundational initiatives. MS, while thorough and detailed, offers a more elaborative explanation with examples and context, making it less concise and slightly less direct in answering the core question."
+}

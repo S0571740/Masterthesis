@@ -1,0 +1,6 @@
+DIRECTNESS:Can you discuss the implications of this research for developing effective math education policies and programs?
+
+{
+  "winner": 1,
+  "reasoning": "MS directly addresses the question by explaining how research findings can influence specific aspects of math education policies and programs. NEO, however, focuses on the lack of specific information and only offers general insights about research in math education without directly discussing implications for policies or programs. therefore, MS is clearer and more concise in addressing the question."
+}

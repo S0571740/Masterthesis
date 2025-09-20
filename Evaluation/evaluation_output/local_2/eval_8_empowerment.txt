@@ -1,0 +1,6 @@
+EMPOWERMENT:What resources and support systems should be put in place to help families navigate poverty and disadvantage?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a comprehensive, multi-faceted overview of resources and support systems, explaining both immediate and long-term strategies, and emphasizing the importance of coordination among organizations. it explicitly discusses the rationale behind each type of support, enhancing understanding and enabling informed judgment. in contrast, MS lists resources and support systems but lacks depth, explanation of how they work together, and does not provide reasoning or context behind the suggestions, which limits its usefulness in promoting informed decision-making."
+}

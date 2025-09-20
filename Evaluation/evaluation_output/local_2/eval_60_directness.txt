@@ -1,0 +1,6 @@
+DIRECTNESS:Are there any regulatory considerations or guidelines for implementing direct NAATs in healthcare settings?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a detailed, specific, and directly relevant explanation of the regulatory considerations for implementing direct naats, including agencies involved, approval processes, and guidelines. MS is vague and lacks detail, making NEO clearly the better, more specific, and clearer response."
+}

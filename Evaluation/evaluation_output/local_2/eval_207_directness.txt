@@ -1,0 +1,6 @@
+DIRECTNESS:Can you describe a case study where changes in land use led to significant alterations in hydrological connectivity?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a direct and concise response to the question, clearly stating that alterations in land use can result in significant changes in hydrological connectivity. in contrast, NEO offers a detailed explanation of the typical impacts and mechanisms without giving a specific case study, thus being less focused and less directly answering the question."
+}

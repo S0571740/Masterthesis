@@ -1,0 +1,6 @@
+DIRECTNESS:What are the most pressing needs of community members living in concentrated disadvantage, and how can community leaders address them?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a concise, clear list of the most pressing needs (education, housing, healthcare, jobs, social support) and straightforwardly suggests community leadership actions. while MS also lists needs and strategies, it introduces more context and detailed explanations that, although informative, make it less concise and slightly less directly focused on the core question."
+}

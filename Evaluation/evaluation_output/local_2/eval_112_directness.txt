@@ -1,0 +1,6 @@
+DIRECTNESS:What are the optimal injection techniques and dosing strategies for achieving maximal benefit from BoNT-A in pediatric patients?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides detailed, specific guidance on injection techniques (e.g., emg, ultrasound guidance), dosing strategies (including dose ranges, individualization, and frequency), and considerations for pediatric patients, directly addressing the question. in contrast, NEO offers a very general overview without specific techniques, dosing details, or guidance, making it less precise and clear for achieving maximal benefit."
+}

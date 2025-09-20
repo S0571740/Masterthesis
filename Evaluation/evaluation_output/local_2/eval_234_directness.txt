@@ -1,0 +1,6 @@
+DIRECTNESS:What are the benefits of developing strong math communication skills, and why is it essential for my academic success?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly addresses the benefits of developing strong math communication skills and why they are essential for academic success in a clear and concise manner. it focuses specifically on understanding, collaboration, confidence, and performance. in contrast, MS, while thorough and comprehensive, includes more elaboration and additional details that slightly detract from the clarity and conciseness effectively required by the question."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What are some strategies for scaling up the implementation of effective math communication approaches across different school districts or regions?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it provides a clear and concise list of specific strategies directly addressing the question without unnecessary elaboration. in contrast, NEO, while detailed, introduces broader concepts and explanations that, although relevant, are less direct and more verbose. therefore, MS offers a more straightforward and focused response to the question."
+}

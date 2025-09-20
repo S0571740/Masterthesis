@@ -1,0 +1,6 @@
+DIRECTNESS:What is the optimal size range for magnetic nanoparticles in biological applications?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it clearly specifies the size range (10-100 nm) and provides detailed reasoning for why this range is optimal, addressing factors like cellular uptake and circulation time. it also includes supporting information and context that directly relates to the question. in contrast, MS gives a similarly correct range but lacks detail and explanation, making it less specific and clear."
+}

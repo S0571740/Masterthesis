@@ -1,0 +1,6 @@
+DIRECTNESS:How can community leaders balance short-term needs with long-term goals in addressing complex social issues?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed, clear, and specific approach to balancing short-term needs with long-term goals, including concrete examples and strategies. in contrast, MS offers a more general overview without detailed strategies or specific steps, making it less explicit about how community leaders can achieve this balance."
+}

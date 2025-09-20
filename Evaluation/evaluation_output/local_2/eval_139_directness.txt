@@ -1,0 +1,6 @@
+DIRECTNESS:How do I optimize the surface chemistry of a chip to prevent particle fouling and improve sensing accuracy?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly and explicitly discusses specific strategies such as anti-fouling coatings, surface charge adjustments, and biomolecular modifications, providing clear and practical methods relevant to the question. in contrast, MS is vague, mentioning only general surface modification without detailing strategies, making it less clear and specific."
+}

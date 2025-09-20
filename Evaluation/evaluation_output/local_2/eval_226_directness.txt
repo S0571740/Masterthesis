@@ -1,0 +1,6 @@
+DIRECTNESS:What strategies can teachers use to improve students' mathematical language skills?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed and specific set of strategies directly related to improving students' mathematical language skills, including vocabulary instruction, discourse, visual supports, and writing activities. in contrast, MS offers a brief overview with general strategies but lacks the depth and specificity found in NEO, making it less clear and comprehensive in addressing the question."
+}

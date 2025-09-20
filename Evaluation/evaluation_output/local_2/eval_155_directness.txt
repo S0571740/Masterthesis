@@ -1,0 +1,6 @@
+DIRECTNESS:How can multiomics data help in developing next-generation medicine?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear, concise, and directly focused explanation of how multiomics data can help in developing next-generation medicine, specifically mentioning biomarker discovery, therapeutic targets, and personalized treatment strategies without extraneous details."
+}

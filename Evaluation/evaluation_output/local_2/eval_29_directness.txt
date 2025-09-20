@@ -1,0 +1,6 @@
+DIRECTNESS:Q: How does this study expand our knowledge of Neolithic Ç atalhöyük's farming economy?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a highly detailed and specific explanation of how the study expands knowledge of çatalhöyük's farming economy, including methods used, types of plant resources identified, and implications for understanding regional trade and subsistence strategies. in contrast, NEO is more general and lacks detailed evidence or specifics, making MS much clearer and more directly connected to the question."
+}

@@ -1,0 +1,1 @@
+When designing direct NAATs for user-friendliness, consistency, and generalizability, key factors to consider include clear and intuitive user interfaces, standardized protocols and procedures, robust quality control measures, compatibility with various sample types, efficient data analysis algorithms, and validation across different populations and settings.

@@ -1,0 +1,6 @@
+DIRECTNESS:In what ways can hydrological connectivity be used to design more effective habitat restoration projects?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides specific and detailed ways that hydrological connectivity can be used in habitat restoration, including reconnecting fragmented habitats, managing floodplains, and strategic planning. in contrast, MS offers a general overview without specific examples or clear explanations, making it less precise and comprehensive."
+}

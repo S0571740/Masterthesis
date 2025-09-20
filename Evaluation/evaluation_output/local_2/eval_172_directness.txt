@@ -1,0 +1,6 @@
+DIRECTNESS:How does Olink Explore compare with other proteomics technologies in terms of cost-effectiveness?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the question by providing detailed comparisons of olink explore's cost-effectiveness relative to other proteomics methods, including features like high multiplexing, reduced reagent use, and automation. in contrast, NEO only briefly states that olink explore is cost-effective without elaborating or providing supporting details, making MS a clearer and more specific response."
+}

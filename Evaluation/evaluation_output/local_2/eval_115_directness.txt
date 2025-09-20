@@ -1,0 +1,6 @@
+DIRECTNESS:What are the indicators that a patient may require more frequent BoNT-A injections, and how often should they be reassessed?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it clearly lists specific indicators for increased frequency needs, such as symptom recurrence and decline in benefit, and provides a specific reassessment interval of 3 to 4 months. NEO mentions relevant indicators but is less detailed and includes a less flexible, more generic interval of 12 weeks. overall, MS offers a more comprehensive and precise response to both parts of the question."
+}

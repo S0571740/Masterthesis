@@ -1,0 +1,6 @@
+DIRECTNESS:Are there any specific considerations or precautions that should be taken when planning surgery for patients who have received BoNT-A injections?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly addresses the question by detailing specific considerations and precautions, such as timing of surgery relative to injections, impact on muscle function, anesthesia considerations, and coordination with specialists. MS provides only a brief and vague affirmation without any specific details, making it less clear and comprehensive."
+}

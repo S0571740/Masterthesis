@@ -1,0 +1,6 @@
+DIRECTNESS:What are some strategies for using hydrological connectivity metrics to predict the effects of climate change on aquatic ecosystems?
+
+{
+"winner": 2,
+"reasoning": "NEO is better because it provides a concise, specific list of strategies directly addressing the question, such as analyzing flow patterns and habitat changes. in contrast, MS is overly broad and includes extensive general explanations and background information, which, while informative, distracts from the core question of specific strategies."
+}

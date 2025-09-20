@@ -1,0 +1,6 @@
+DIRECTNESS:Can you explain the differences between various types of magnetic sensors, such as GMR and TMR sensors?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a detailed and specific explanation of the differences between gmr and tmr sensors, including their physical mechanisms, structures, and performance distinctions. in contrast, NEO offers a brief overview that mentions the core differences but lacks the depth and clarity found in MS, making it less comprehensive."
+}

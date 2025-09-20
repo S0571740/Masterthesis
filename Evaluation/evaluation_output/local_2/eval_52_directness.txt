@@ -1,0 +1,6 @@
+DIRECTNESS:How do different matrices affect the performance of direct NAATs?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it explicitly explains how different matrices (blood, saliva, sputum) affect the performance of direct naats, including specific challenges and considerations for each matrix. it directly addresses the question with detailed, relevant information. NEO is too vague and lacks detail, providing only a general statement without specifics, making it less clear and concise in addressing how matrices impact performance."
+}

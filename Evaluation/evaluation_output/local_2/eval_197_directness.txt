@@ -1,0 +1,6 @@
+DIRECTNESS:Can you discuss how the analysis of activity codes might inform business decisions around resource allocation for genetic research initiatives?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses how activity codes inform business decisions related to resource allocation in genetic research initiatives by explaining specific funding categories, their implications for innovation, and funding trends. in contrast, NEO is more generic, discussing the general idea of resource allocation without connecting it specifically to activity codes or providing detailed insights into how such analysis informs strategic decisions."
+}

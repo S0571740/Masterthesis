@@ -1,0 +1,6 @@
+DIRECTNESS:In what ways can Olink Explore contribute to our understanding of complex biological systems?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear, concise explanation of how olink explore contributes to understanding complex biological systems by highlighting its role in revealing relationships, patterns, and aiding interpretation. in contrast, NEO offers a much more detailed description including technical specifics and applications that, while informative, are less directly focused on how the platform contributes to understanding complex systems overall, making it less concise and somewhat overelaborate for the question asked."
+}

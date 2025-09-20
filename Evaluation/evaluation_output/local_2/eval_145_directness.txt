@@ -1,0 +1,6 @@
+DIRECTNESS:Are there any opportunities for collaboration or funding between industry and academia in the field of MEMS and nanotechnology?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the question by providing specific details about opportunities for collaboration and funding between industry and academia in mems and nanotechnology, particularly in biomedical applications. it mentions specific funding agencies like nih, types of research supported, and the nature of collaborations. NEO is more general and less specific, mentioning opportunities broadly without detailed or concrete examples."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What are the potential side effects of using Bi(III)-bound NDM-1 as an antibiotic target?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it directly and concisely lists potential side effects, such as toxicity, disruption of biological processes, and resistance development. NEO provides broader context and discusses the lack of specific data, but does not explicitly or succinctly address the potential side effects as the question requests."
+}

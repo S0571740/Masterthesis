@@ -1,0 +1,6 @@
+DIRECTNESS:What evidence-based policies have shown success in reducing poverty and improving outcomes in disadvantaged areas?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a clear, concise list of specific policies that have shown success—namely investing in education, job training, affordable housing, healthcare, and community initiatives—directly addressing the question. in contrast, MS is more general, discusses various approaches with lengthy explanations and examples, making it less immediately clear and concise in listing specific policies."
+}

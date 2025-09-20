@@ -1,0 +1,6 @@
+EMPOWERMENT:What are the indicators that a patient may require more frequent BoNT-A injections, and how often should they be reassessed?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a more comprehensive and nuanced explanation of indicators for more frequent bont-a injections, such as symptom recurrence, inadequate symptom control, and decline in benefits. it also articulates the importance of individualizing reassessment intervals (every 3 to 4 months), including rationale and clinical reasoning, which helps the reader make informed judgments. in contrast, MS offers a more limited and less detailed description, with a fixed reassessment interval (every 12 weeks) that lacks explanation or context, and it mentions fewer indicators. therefore, NEO better supports understanding and clinical decision-making."
+}

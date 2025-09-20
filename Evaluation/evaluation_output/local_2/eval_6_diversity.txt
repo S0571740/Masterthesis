@@ -1,0 +1,6 @@
+DIVERSITY:What are the most effective strategies for building trust between social workers and community members in disadvantaged areas?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a more comprehensive and multi-dimensional perspective on trust-building strategies. it details specific approaches such as community engagement, cultural competence, consistency, and personal relationship development, supported by references to data and evidence. in contrast, MS presents a concise list of strategies without elaboration or supporting evidence, lacking the depth and variety of perspectives found in NEO."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What are the implications of using Olink Explore for COVID-19 research?
+
+{
+"winner": 1,
+"reasoning": "MS is better because it specifically and clearly discusses the implications of using olink explore for covid-19 research, including its capabilities, applications, and potential benefits. in contrast, NEO is more vague and general, mentioning only that it can provide valuable insights and aid in biomarker discovery without elaborating on specific implications or how the platform impacts covid-19 research."
+}

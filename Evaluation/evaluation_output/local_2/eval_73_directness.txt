@@ -1,0 +1,6 @@
+DIRECTNESS:How can policy makers support the development and implementation of direct NAATs in low-resource settings?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed, specific, and clear explanation of how policy makers can support the development and implementation of direct naats, including regulatory, funding, capacity building, and strategic integration measures. MS is concise but more general and less detailed, lacking specific actions or examples that directly address how policies can support naat deployment in low-resource settings."
+}

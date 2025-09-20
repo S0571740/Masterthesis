@@ -1,0 +1,6 @@
+DIRECTNESS:Can Olink Explore help identify novel biomarkers for early diagnosis and disease monitoring?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the question by explaining how olink explore can help identify novel biomarkers for early diagnosis and disease monitoring, providing specific details about the technology, its capabilities, and examples of its application. in contrast, NEO is overly brief and lacks detail, failing to clearly explain the ways in which olink explore contributes to biomarker discovery."
+}

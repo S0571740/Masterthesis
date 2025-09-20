@@ -1,0 +1,6 @@
+DIRECTNESS:How do I program a magnetophoretic circuit to transport particles at single-particle resolution?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a concise and clear explanation focused directly on how to program a magnetophoretic circuit for single-particle transport, emphasizing design, magnetic control, and adjustment. in contrast, NEO, while thorough and detailed, includes extensive technical background and procedural information that is not necessary for a straightforward understanding of the programming approach, making it less concise and more indirect."
+}

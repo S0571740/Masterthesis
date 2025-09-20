@@ -1,0 +1,6 @@
+DIVERSITY:What research methods and designs have shown success in studying and addressing concentrated disadvantage?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it offers a more comprehensive and multi-dimensional perspective, incorporating various research methods (quantitative, qualitative, longitudinal, mixed-methods) and illustrating their specific applications (spatial analysis, ethnography, community-based research, longitudinal studies). it also discusses different types of data sources and evidence, such as policy reports and community research, providing a richer and more diverse set of insights into successful research methods and designs for studying concentrated disadvantage. in contrast, NEO mainly focuses on qualitative methods and specific study designs, offering a narrower view."
+}

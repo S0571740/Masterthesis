@@ -1,0 +1,6 @@
+DIRECTNESS:How can teachers incorporate contextual learning into their classroom instruction to enhance math communication skills?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it provides a clear and concise explanation directly addressing how teachers can incorporate contextual learning to improve math communication skills, mainly focusing on using real-world examples and connections. in contrast, NEO, while thorough and detailed, includes additional strategies and examples that, although helpful, make it less concise and slightly more elaborate than necessary for a straightforward response."
+}

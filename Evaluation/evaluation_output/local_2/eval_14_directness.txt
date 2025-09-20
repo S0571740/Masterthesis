@@ -1,0 +1,6 @@
+DIRECTNESS:How can educators effectively partner with community organizations and policymakers to address concentrated disadvantage?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed and specific approach to how educators can partner effectively with community organizations and policymakers, including strategies like building relationships, ongoing communication, and data-driven decision-making. it addresses the question with clear examples and emphasizes collaboration and shared goals. in contrast, MS is more general and lacks specific methods or steps, making it less clear and concrete in addressing how to achieve effective partnerships."
+}

@@ -1,0 +1,6 @@
+EMPOWERMENT:Can you provide examples of interactive learning activities that promote math communication?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it provides a broader and more detailed explanation of various interactive activities that promote math communication, including specific examples with rationale and references to widely recognized educational strategies. it offers clear descriptions and emphasizes the purpose of each activity, helping the reader understand how these activities foster communication skills without making unsupported assumptions. in contrast, NEO simply lists activities without elaboration, context, or explanation of their impact on student understanding."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What are some effective ways to integrate math communication into existing classroom instruction and assessment practices?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a detailed, specific, and clear set of strategies for integrating math communication into classroom instruction and assessment practices. it explicitly mentions various methods such as verbal and written explanations, formative assessments, collaborative activities, and open-ended questions. in contrast, MS offers only a brief list of general ideas without elaboration or specific implementation details, making it less clear and comprehensive."
+}

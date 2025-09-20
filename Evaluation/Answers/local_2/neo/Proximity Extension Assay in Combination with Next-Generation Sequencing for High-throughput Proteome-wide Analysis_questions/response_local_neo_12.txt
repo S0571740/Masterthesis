@@ -1,0 +1,1 @@
+Olink Explore enables a better understanding of the proteome in healthy as well as disease cohorts by providing a comprehensive analysis of protein biomarkers in various biological samples. This platform allows researchers to identify and quantify proteins, analyze their interactions, and explore their roles in different physiological and pathological conditions.

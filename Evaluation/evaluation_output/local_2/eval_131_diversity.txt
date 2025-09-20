@@ -1,0 +1,6 @@
+DIVERSITY:How do I program a magnetophoretic circuit to transport particles at single-particle resolution?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it offers a multi-faceted and multi-dimensional perspective by detailing specific design considerations, various methods for controlling magnetic fields, include references to literature, and discuss practical and theoretical aspects like feedback control and particle dynamics. in contrast, MS provides a high-level overview focused mainly on magnetic field control without exploring the design intricacies, supporting evidence, or multiple angles that contribute to a comprehensive understanding of programming such a circuit."
+}

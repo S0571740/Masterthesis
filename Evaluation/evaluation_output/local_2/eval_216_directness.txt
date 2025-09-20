@@ -1,0 +1,6 @@
+DIRECTNESS:What is the relationship between hydrological connectivity and biodiversity in aquatic ecosystems?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly explains the relationship between hydrological connectivity and biodiversity, detailing how connectivity influences species movement, habitat access, and ecosystem health. it provides a clear, specific explanation of the mechanisms and consequences, whereas NEO offers a vague statement without elaboration or specific details."
+}

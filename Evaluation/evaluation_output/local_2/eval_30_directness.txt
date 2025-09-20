@@ -1,0 +1,6 @@
+DIRECTNESS:Q: What is the importance of integrating microbotanical and microwear data with technological and contextual information?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the importance of integrating microbotanical and microwear data with technological and contextual information in a concise manner, emphasizing the overall goal of understanding past human behavior and activities. while NEO provides detailed examples and explanations, it includes extensive supplementary information that, although relevant in context, makes it less concise and slightly less focused on directly answering the core question about the importance of integration." 
+}

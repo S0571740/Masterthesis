@@ -1,0 +1,6 @@
+DIRECTNESS:How do I troubleshoot common issues with magnetophoretic circuits and microfluidic chips?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a comprehensive, detailed, and specific approach to troubleshooting common issues with magnetophoretic circuits and microfluidic chips, addressing multiple potential problem areas with clear guidance. in contrast, MS offers only general suggestions such as checking connections and calibration without elaborating on specific issues related to fluid flow, magnetic manipulation, device fabrication, or signal detection, making it less precise and detailed."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What are the regulatory frameworks and guidelines governing the use of direct NAATs in healthcare settings?
+
+{
+  "winner": 2,
+  "reasoning": "NEO provides a detailed, specific, and clear description of the main regulatory agencies (fda and who) and their roles, directly addressing the question about frameworks and guidelines. MS is too vague, mentioning only 'health authorities and professional organizations' without specifying which ones or how they govern the use of direct naats, thus less directly answering the question."
+}

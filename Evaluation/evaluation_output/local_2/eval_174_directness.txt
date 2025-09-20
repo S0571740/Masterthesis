@@ -1,0 +1,6 @@
+DIRECTNESS:In what ways can Olink Explore contribute to the growth and success of pharmaceutical companies?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly and specifically outlines multiple concrete ways olink explore can contribute to pharmaceutical companies, such as biomarker discovery, drug target validation, and personalized medicine development. in contrast, MS provides a more general overview without specific details, making it less clear and specific in addressing how olink explore contributes."
+}

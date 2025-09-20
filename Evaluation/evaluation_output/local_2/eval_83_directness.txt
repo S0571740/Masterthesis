@@ -1,0 +1,6 @@
+DIRECTNESS:How can this research inform the development of new treatment strategies for NDM-1-positive infections?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly and specifically explains how research findings on ndm-1 properties can inform development of new treatment strategies, such as designing inhibitors based on enzyme structure, metal interactions, and stability studies. in contrast, MS is vague and general, mentioning insights into characteristics and vulnerabilities without detailing how these specifically translate into treatment strategies."
+}

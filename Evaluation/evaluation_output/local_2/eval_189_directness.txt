@@ -1,0 +1,6 @@
+DIRECTNESS:What recommendations would you make to policymakers regarding incorporating these findings into their decision-making process?
+
+{
+  "winner": 2,
+  "reasoning": "MS is better because it directly addresses the question by emphasizing the importance of considering findings, evaluating implications, and ensuring transparency and accountability. it provides a clearer and more focused recommendation for policymakers specifically about how to incorporate findings into decision-making, whereas NEO offers general principles about evidence-based policy without explicitly tying them to the findings or giving as direct guidance."
+}

@@ -1,0 +1,6 @@
+DIRECTNESS:What strategies can educators use to build resilience and hope in students from disadvantaged backgrounds?
+
+{
+"winner": 1,
+"reasoning": "MS is better because it provides a concise, specific list of strategies directly addressing how educators can build resilience and hope, without extraneous details. in contrast, NEO offers a more general discussion with multiple elaborations and examples, making it less direct and slightly less clear in specifically listing strategies."
+}

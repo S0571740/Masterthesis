@@ -1,0 +1,6 @@
+DIRECTNESS:How does this research contribute to the development of new antimicrobial agents?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it directly explains how the research contributes to developing new antimicrobial agents by detailing the specific focus on metallo-beta-lactamase enzymes, their inhibition mechanisms, and implications for designing new drugs. in contrast, MS provides a vague and general statement about exploring novel compounds or mechanisms without specific details, making it less clear and precise."
+}

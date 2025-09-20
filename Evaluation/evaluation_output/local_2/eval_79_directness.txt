@@ -1,0 +1,6 @@
+DIRECTNESS:What are the potential applications of understanding the binding mechanism of Bi(III) to NDM-1?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a detailed and specific explanation of the potential applications, including the design of metal-based inhibitors, diagnostics, and structural insights, directly addressing the question. in contrast, MS offers a very general and vague response, mentioning antimicrobial agents and resistance without specific details or mechanisms."
+}

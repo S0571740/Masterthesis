@@ -1,0 +1,6 @@
+DIRECTNESS:How does Olink Explore integrate with existing research frameworks and pipelines?
+
+{
+  "winner": 2,
+  "reasoning": "MS provides a detailed, specific, and clear explanation of how olink explore integrates with existing research frameworks and pipelines, including specific technologies, workflows, and compatibility details. in contrast, NEO is too vague and general, mentioning seamless integration but lacking specifics, making MS the better response overall."
+}

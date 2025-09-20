@@ -1,0 +1,6 @@
+DIRECTNESS:How can I use visual representations to express math concepts more clearly?
+
+{
+  "winner": 1,
+  "reasoning": "MS is better because it directly addresses the question by explaining specific ways visual representations can be used to express math concepts clearly, including concrete examples and applications. NEO, while relevant, is more general and less detailed, lacking specific examples or deeper explanation of how visual tools enhance understanding."
+}

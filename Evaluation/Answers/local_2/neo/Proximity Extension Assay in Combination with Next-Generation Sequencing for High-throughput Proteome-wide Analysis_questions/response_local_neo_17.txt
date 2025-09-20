@@ -1,0 +1,1 @@
+Olink Explore integrates with existing research frameworks and pipelines by providing a platform that allows for seamless integration of data and results into these frameworks.

@@ -1,0 +1,6 @@
+EMPOWERMENT:How does Olink Explore enable high-throughput analysis of nearly 1500 proteins in multiplex?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it provides a detailed explanation of the specific technologies—proximity extension assay (pea) and next-generation sequencing (ngs)—that enable olink explore's high-throughput, multiplexed protein analysis. it clarifies how these techniques work together, including the role of antibody-oligonucleotide conjugates and dna barcodes, which helps the reader understand the underlying mechanisms. additionally, it discusses sample preparation and assay design strategies, offering a comprehensive view. in contrast, MS is vague and lacks technical detail, making it less informative and potentially misleading by oversimplifying how olink explore achieves high-throughput multiplexing."
+}

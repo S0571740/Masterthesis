@@ -1,0 +1,6 @@
+DIRECTNESS:What are some effective ways to improve my mathematical language skills in class?
+
+{
+  "winner": 1,
+  "reasoning": "NEO is better because it provides a concise and direct list of effective strategies specifically related to improving mathematical language skills. in contrast, MS offers a broad, detailed guide with multiple suggestions, many of which extend beyond core language skills and include general study strategies, making it less focused and less concise in directly addressing the question."
+}

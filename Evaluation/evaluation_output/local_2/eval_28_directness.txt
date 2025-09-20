@@ -1,0 +1,6 @@
+DIRECTNESS:Q: Can you explain how starch and phytolith analyses contribute to understanding plant-processing activities?
+
+{
+  "winner": 2,
+  "reasoning": "MS is more specific and clearly explains how starch and phytolith analyses directly contribute to understanding plant-processing activities, including the types of evidence these analyses provide, their significance in archaeological contexts, and the specific details of what each microremain indicates. in contrast, NEO is more general and less detailed, offering a broad overview without emphasizing the specific contributions of the analyses."
+}

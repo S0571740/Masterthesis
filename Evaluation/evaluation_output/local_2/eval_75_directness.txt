@@ -1,0 +1,6 @@
+DIRECTNESS:Are there any international standards or guidelines for ensuring the quality and safety of direct NAATs?
+
+{
+  "winner": 1,
+  "reasoning": "NEO provides a clear and concise affirmation that international standards and guidelines exist for ensuring the quality and safety of direct naats, directly addressing the question. in contrast, MS is more detailed and discusses related standards and guidelines but does not explicitly confirm their existence or specify international standards for direct naats, making it less directly responsive."
+}

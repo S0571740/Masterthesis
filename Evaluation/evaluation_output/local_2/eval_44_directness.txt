@@ -1,0 +1,6 @@
+DIRECTNESS:Q: How do these findings relate to broader trends in paleobotanical research on ancient agricultural systems?
+
+{
+  "winner": 2,
+  "reasoning": "NEO is better because it directly and comprehensively addresses the question by explaining how the findings relate to broader trends in paleobotanical research on ancient agricultural systems. it explicitly discusses the integration of microbotanical techniques, the importance of wild plant resources, multidisciplinary approaches, and how these reflect current research directions. in contrast, MS is vague and lacks specific details, offering only a general statement without elaboration."
+}
