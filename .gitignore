@@ -1,0 +1,14 @@
+/venv/
+/MSGrag/cache
+/MSGrag/logs
+/MSGrag/output
+/MSGrag/prompts
+__pycache__
+*.json
+*.csv
+*.pdf
+ChartPlotting/data/*
+ChartPlotting/plots/*
+local_0
+local_1
+.env
